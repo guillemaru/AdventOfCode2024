@@ -1,0 +1,3 @@
+module guillemaru/advent/3
+
+go 1.22.5
